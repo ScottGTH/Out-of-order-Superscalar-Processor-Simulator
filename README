@@ -1,3 +1,6 @@
+					CPU, Computer Architechture Project, Using C++
+               Out-of-order Superscalar Processor Simulator
+
 1. Type "make" to build.  (Type "make clean" first if you already compiled and want to recompile from scratch.)
 
 2. Run trace reader:
